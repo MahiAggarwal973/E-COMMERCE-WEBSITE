@@ -3,6 +3,10 @@ PROJECT TITLE:
 A full-stack E-Commerce Web Application built using the MERN stack that allows users to browse products, add items to cart, place orders, and manage accounts.
 This project focuses on real-world e-commerce functionality, authentication, and admin management.
 
+##LIVE WEBSITE:
+FRONTEND PANEL: https://e-commerce-website-frontend-taupe.vercel.app/
+ADMIN PANEL: https://e-commerce-website-admin-zeta.vercel.app/
+
 ##Key Features:
 1.User Features:
 -User Registration & Login (JWT Authentication)
